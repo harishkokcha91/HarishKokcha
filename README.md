@@ -10,9 +10,12 @@ Senior Backend Engineer | Golang | Distributed Systems | DevOps
 
 ## Professional Summary
 
-Senior Software Engineer with 9+ years of experience building scalable, distributed systems using Golang and Python. Expertise in microservices architecture, CI/CD automation, and cloud-native deployments. Proven track record in improving system reliability, deployment efficiency, and observability in production environments.
+Senior Backend Engineer with 9+ years of experience building high-performance, distributed systems using Golang and Python. Specialized in microservices architecture, observability, and production-grade deployments with a strong focus on scalability, reliability, and performance.
 
-Strong focus on backend engineering, DevOps practices, and production-grade system design. Experienced in working with distributed teams and asynchronous communication. Available for 4+ hours overlap with US/EU time zones.
+Proven ability to design systems, deploy them to production, and instrument them for monitoring and debugging. Experienced in CI/CD automation, Kubernetes-based deployments, and cloud infrastructure.
+
+Experienced in asynchronous communication, documentation, and collaborating across distributed teams.  
+**Available for 4+ hours overlap with US Eastern / Central European Time.**
 
 ---
 
@@ -35,35 +38,63 @@ Strong focus on backend engineering, DevOps practices, and production-grade syst
 ### Capgemini — Senior Consultant  
 📍 Gurgaon | Sep 2021 – Present  
 
-- Architected and maintained scalable microservices using Golang and Python for enterprise systems  
-- Built CI/CD pipelines using Jenkins and GitHub Actions, improving deployment efficiency  
-- Automated infrastructure provisioning using Terraform in Azure environments  
-- Designed monitoring and alerting systems using Prometheus and Azure Workbooks  
-- Implemented distributed tracing using Jaeger across HTTP, gRPC, and messaging services  
-- Built asynchronous communication systems using RabbitMQ with DLQ and retry strategies  
-- Optimized system performance and improved service reliability  
+- Architected and maintained scalable Golang and Python microservices for enterprise-grade systems  
+- Designed CI/CD pipelines using Jenkins and GitHub Actions, improving deployment frequency and reducing manual effort  
+- Automated infrastructure provisioning using Terraform across Azure environments  
+- Built observability systems using Prometheus, Grafana, and Azure Workbooks for real-time monitoring  
+- Implemented distributed tracing using Jaeger across HTTP, gRPC, and messaging systems  
+- Developed asynchronous communication using RabbitMQ with retry and DLQ strategies  
+- Collaborated across teams to improve system reliability, scalability, and performance  
 
 **Key Achievements:**
-- Improved deployment automation and reduced manual intervention significantly  
-- Enhanced observability leading to faster issue detection and resolution  
-- Strengthened system reliability and scalability across services  
+- Improved deployment automation and reduced deployment time significantly  
+- Enhanced monitoring and observability, reducing issue detection and resolution time  
+- Strengthened system reliability and improved production stability  
 
 ---
 
 ### Expedient Healthcare Pvt. Ltd (Healthians) — Software Developer  
 📍 Gurgaon | Nov 2016 – Sep 2021  
 
-- Developed and optimized Android applications with scalable backend integrations  
-- Integrated payment systems including PayU, PhonePe, Mobikwik, and others  
-- Built features like push notifications, Google Maps integration, and referral systems  
-- Implemented analytics and crash reporting using CleverTap and Fabric  
-- Developed authentication systems including OTP, Gmail, and Facebook login  
-- Worked on IoT integrations and AWS-based data storage solutions  
+- Built and optimized Android applications integrated with scalable backend services  
+- Integrated multiple payment gateways including PayU, PhonePe, and Mobikwik  
+- Developed features like push notifications, Google Maps integration, and referral systems  
+- Implemented analytics and crash reporting using CleverTap and Fabric Crashlytics  
+- Built authentication systems including OTP, Gmail, and Facebook login  
+- Worked on IoT integrations and AWS-based data storage systems  
 
 **Key Achievements:**
 - Improved application performance and user engagement  
-- Successfully delivered multiple production features across applications  
-- Enhanced system stability and reduced crash rates  
+- Delivered multiple production-ready features across applications  
+- Reduced crash rates and improved app stability  
+
+---
+
+## Additional Highlights
+
+- Strong expertise in designing distributed systems and microservices architecture  
+- Experience in building, deploying, and monitoring production-grade systems  
+- Combination of backend engineering + DevOps + observability (key differentiator)  
+- Ability to write scalable services and ensure production readiness through monitoring and tracing  
+- Experience working in cross-functional and distributed teams  
+
+---
+
+## Remote Readiness
+
+- Experienced in asynchronous communication and distributed team collaboration  
+- Tools: GitHub, JIRA, Confluence, Zoom (can adapt to Slack, Notion, Linear)  
+- Strong documentation and communication skills  
+- Comfortable working across time zones  
+
+---
+
+## Professional Positioning
+
+- Build systems AND deploy them to production  
+- Write code AND instrument it for observability  
+- Strong focus on system design AND operational excellence  
+- Bridge backend engineering with DevOps and production reliability  
 
 ---
 
@@ -74,16 +105,11 @@ Rajasthan Technical University (RTU) | 2009 – 2013
 
 ---
 
-## Additional Highlights
+## Suggested Enhancements (Optional but Recommended)
 
-- Strong experience in distributed systems and microservices design  
-- Hands-on expertise in observability, monitoring, and production debugging  
-- Experience building and deploying production-grade systems end-to-end  
-- Comfortable working in remote and cross-functional team environments  
-
----
-
-## Optional (Recommended Additions)
-
-- GitHub: Add your profile link  
-- Blog: Add technical articles if available  
+- Add GitHub profile with active projects (microservices, observability, CI/CD)  
+- Write technical blogs on:
+  - Distributed systems patterns  
+  - Observability in production  
+  - Real production debugging experience  
+- Contribute to open-source Go projects  
