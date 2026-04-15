@@ -138,18 +138,6 @@ Microservices • REST APIs • gRPC • Distributed Systems
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishkokcha91&show_icons=true&theme=radical&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkokcha91&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkokcha91&layout=compact&theme=radical" />
-</p>
-
----
-
 ## ✍️ Blogs
 
 * 📝 From Developer to Architect → https://medium.com/@hkokcha/from-developer-to-architect-a-practical-roadmap-based-on-real-experience-d335f9f524de
