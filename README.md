@@ -1,115 +1,185 @@
-# Harish Kokcha
-Senior Backend Engineer | Golang | Distributed Systems | DevOps  
+# Hi 👋, I'm Harish Kokcha
 
-📞 9996898299  
-✉️ harish.kokcha@gmail.com  
-📍 Gurgaon, India  
-🔗 https://linkedin.com/in/harishkokcha  
+💻 Full Stack & Backend Engineer specializing in scalable systems and distributed architectures
 
----
+🚀 Experienced in building production-grade applications across web, mobile, and cloud
 
-## Professional Summary
-
-Senior Backend Engineer with 9+ years of experience building high-performance, distributed systems using Golang and Python. Specialized in microservices architecture, observability, and production-grade deployments with a strong focus on scalability, reliability, and performance.
-
-Proven ability to design systems, deploy them to production, and instrument them for monitoring and debugging. Experienced in CI/CD automation, Kubernetes-based deployments, and cloud infrastructure.
-
-Experienced in asynchronous communication, documentation, and collaborating across distributed teams.  
-**Available for 4+ hours overlap with US Eastern / Central European Time.**
+🌱 Currently focused on System Design, Kubernetes, and Cloud-Native Development
 
 ---
 
-## Technical Skills
+## 🧠 Engineering Stack
 
-**Languages:** Golang, Python, JavaScript, TypeScript, Java  
-**Backend:** Microservices, REST APIs, gRPC, Distributed Systems  
-**DevOps:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
-**Cloud:** Azure  
-**Monitoring & Observability:** Prometheus, Grafana, Splunk, Jaeger  
-**Messaging:** RabbitMQ (DLQ, retries, async communication)  
-**Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
-**Frontend:** React.js  
-**Tools:** Git, GitHub, JIRA, Confluence, Swagger, Postman  
+### 💻 Frontend
 
----
+![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square\&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square\&logo=css3)
 
-## Professional Experience
+### 📱 Mobile Development
 
-### Capgemini — Senior Consultant  
-📍 Gurgaon | Sep 2021 – Present  
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square\&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square\&logo=kotlin)
+![XML](https://img.shields.io/badge/-XML-black?style=flat-square\&logo=xml)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square\&logo=flutter)
 
-- Architected and maintained scalable Golang and Python microservices for enterprise-grade systems  
-- Designed CI/CD pipelines using Jenkins and GitHub Actions, improving deployment frequency and reducing manual effort  
-- Automated infrastructure provisioning using Terraform across Azure environments  
-- Built observability systems using Prometheus, Grafana, and Azure Workbooks for real-time monitoring  
-- Implemented distributed tracing using Jaeger across HTTP, gRPC, and messaging systems  
-- Developed asynchronous communication using RabbitMQ with retry and DLQ strategies  
-- Collaborated across teams to improve system reliability, scalability, and performance  
+### ⚙️ Backend & Architecture
 
-**Key Achievements:**
-- Improved deployment automation and reduced deployment time significantly  
-- Enhanced monitoring and observability, reducing issue detection and resolution time  
-- Strengthened system reliability and improved production stability  
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square\&logo=go)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square\&logo=flask)
 
----
+Microservices • REST APIs • gRPC • Distributed Systems
 
-### Expedient Healthcare Pvt. Ltd (Healthians) — Software Developer  
-📍 Gurgaon | Nov 2016 – Sep 2021  
+### 🗄 Databases
 
-- Built and optimized Android applications integrated with scalable backend services  
-- Integrated multiple payment gateways including PayU, PhonePe, and Mobikwik  
-- Developed features like push notifications, Google Maps integration, and referral systems  
-- Implemented analytics and crash reporting using CleverTap and Fabric Crashlytics  
-- Built authentication systems including OTP, Gmail, and Facebook login  
-- Worked on IoT integrations and AWS-based data storage systems  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square\&logo=postgresql)
 
-**Key Achievements:**
-- Improved application performance and user engagement  
-- Delivered multiple production-ready features across applications  
-- Reduced crash rates and improved app stability  
+### 📡 Messaging & Streaming
 
----
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square\&logo=rabbitmq)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square\&logo=apachekafka)
 
-## Additional Highlights
+### 📊 Monitoring & Observability
 
-- Strong expertise in designing distributed systems and microservices architecture  
-- Experience in building, deploying, and monitoring production-grade systems  
-- Combination of backend engineering + DevOps + observability (key differentiator)  
-- Ability to write scalable services and ensure production readiness through monitoring and tracing  
-- Experience working in cross-functional and distributed teams  
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square\&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square\&logo=grafana)
+![Splunk](https://img.shields.io/badge/-Splunk-black?style=flat-square\&logo=splunk)
+![Jaeger](https://img.shields.io/badge/-Jaeger-black?style=flat-square\&logo=jaeger)
 
----
+### 🧰 DevOps & CI/CD
 
-## Remote Readiness
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square\&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square\&logo=terraform)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square\&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square\&logo=github-actions)
+![Azure Container Registry](https://img.shields.io/badge/-Azure_ACR-black?style=flat-square\&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square\&logo=github)
 
-- Experienced in asynchronous communication and distributed team collaboration  
-- Tools: GitHub, JIRA, Confluence, Zoom (can adapt to Slack, Notion, Linear)  
-- Strong documentation and communication skills  
-- Comfortable working across time zones  
+### ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square\&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square\&logo=microsoft-azure)
 
 ---
 
-## Professional Positioning
+## 🚀 Projects ⭐
 
-- Build systems AND deploy them to production  
-- Write code AND instrument it for observability  
-- Strong focus on system design AND operational excellence  
-- Bridge backend engineering with DevOps and production reliability  
+### 🔹 Healthians - Full Body Checkup
 
----
+📌 Contributed to a large-scale healthcare application used by thousands of users for booking diagnostic tests, accessing reports, and managing health services. Focused on scalability, performance, and user experience.
 
-## Education
+⚙️ Java, Android SDK
 
-**Bachelor of Engineering (Computer Engineering)**  
-Rajasthan Technical University (RTU) | 2009 – 2013  
+🔗 https://play.google.com/store/apps/details?id=com.healthians.main.healthians
+
+📂 Private / Company Codebase
 
 ---
 
-## Suggested Enhancements (Optional but Recommended)
+### 🔹 Healthians Phlebo App
 
-- Add GitHub profile with active projects (microservices, observability, CI/CD)  
-- Write technical blogs on:
-  - Distributed systems patterns  
-  - Observability in production  
-  - Real production debugging experience  
-- Contribute to open-source Go projects  
+📌 Built features for a field-service mobile application enabling phlebotomists to manage appointments, track collections, and streamline operations in real-time.
+
+⚙️ Java, Android SDK
+
+🔗 https://play.google.com/store/apps/details?id=com.healthians.phlebo
+
+📂 Private / Company Codebase
+
+---
+
+### 🔹 Healthians Partner App
+
+📌 Developed and enhanced a partner ecosystem app to manage operations, track performance, and improve partner engagement using modern Android practices.
+
+⚙️ Kotlin, Android SDK
+
+🔗 https://play.google.com/store/apps/details?id=com.healthians.partnerapp
+
+📂 Private / Company Codebase
+
+---
+
+### 🔹 Walkin Onboard Consultants
+
+📌 Designed and deployed a production-ready consulting website with optimized performance, responsive UI, and scalable backend infrastructure on AWS EC2.
+
+⚙️ HTML, CSS, JavaScript, Python (Flask), AWS EC2, Nginx, Gunicorn
+
+🔗 https://www.walkinonboardconsultants.com/
+
+---
+
+### 🔹 Majoka Packaging
+
+📌 Developed a business website for a packaging company with a focus on clean UI, fast performance, and scalable backend deployment using Flask and AWS EC2.
+
+⚙️ HTML, CSS, JavaScript, Python (Flask), AWS EC2, Nginx, Gunicorn
+
+🔗 https://majokapackaging.com/
+
+---
+
+### 🔹 Sanyukt API Gateway
+
+📌 Description: Built a production-ready API Gateway as part of a microservices architecture, handling request routing, authentication, and service communication. Implemented scalable and fault-tolerant design patterns to improve system performance, security, and maintainability across distributed services.
+
+⚙️ Tech Stack: Golang, REST APIs, gRPC, Microservices, Docker, Kubernetes (adjust if needed)
+
+🔗 Live Demo: —
+
+📂 Repo: https://github.com/harishkokcha91/SanyuktApiGateway
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishkokcha91&show_icons=true&theme=radical&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkokcha91&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkokcha91&layout=compact&theme=radical" />
+</p>
+
+---
+
+## ✍️ Blogs
+
+* 📝 From Developer to Architect → https://medium.com/@hkokcha/from-developer-to-architect-a-practical-roadmap-based-on-real-experience-d335f9f524de
+* 📝 Production-Ready Microservices in Golang → https://medium.com/@hkokcha/building-production-ready-microservices-in-golang-architecture-patterns-tools-af389542b2b6
+* 📝 Deploy Golang Docker App to AWS EC2 → https://medium.com/@hkokcha/deploy-your-golang-docker-app-to-aws-ec2-using-github-actions-beginner-friendly-guide-a1b8bb564b90
+
+---
+
+## 🎯 Current Focus
+
+* Scalable microservices & distributed systems
+* Kubernetes & cloud-native deployments
+* System design & architecture
+
+---
+
+## 🏆 Achievements
+
+* 🚀 Built and deployed production-grade applications
+* 📱 Contributed to large-scale mobile apps used in real-world scenarios
+* ☁️ Hands-on experience with cloud and DevOps pipelines
+* 🧠 Strong problem-solving and system design skills
+
+---
+
+## 🌐 Contact
+
+* 💼 LinkedIn: https://www.linkedin.com/in/harishkokcha/
+* 📧 [harish.kokcha@gmail.com](mailto:harish.kokcha@gmail.com)
+
+---
+
+⭐️ From Harish Kokcha — Building scalable systems & impactful products
